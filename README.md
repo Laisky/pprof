@@ -1,9 +1,9 @@
 # pprof
 
-[![Run Tests](https://github.com/gin-contrib/pprof/actions/workflows/go.yml/badge.svg?branch=master)](https://github.com/gin-contrib/pprof/actions/workflows/go.yml)
+[![Run Tests](https://github.com/Laisky/pprof/actions/workflows/go.yml/badge.svg?branch=master)](https://github.com/Laisky/pprof/actions/workflows/go.yml)
 [![codecov](https://codecov.io/gh/gin-contrib/pprof/branch/master/graph/badge.svg)](https://codecov.io/gh/gin-contrib/pprof)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gin-contrib/pprof)](https://goreportcard.com/report/github.com/gin-contrib/pprof)
-[![GoDoc](https://godoc.org/github.com/gin-contrib/pprof?status.svg)](https://godoc.org/github.com/gin-contrib/pprof)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Laisky/pprof)](https://goreportcard.com/report/github.com/Laisky/pprof)
+[![GoDoc](https://godoc.org/github.com/Laisky/pprof?status.svg)](https://godoc.org/github.com/Laisky/pprof)
 [![Join the chat at https://gitter.im/gin-gonic/gin](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gin-gonic/gin)
 
 gin pprof middleware
@@ -17,13 +17,13 @@ gin pprof middleware
 Download and install it:
 
 ```bash
-go get github.com/gin-contrib/pprof
+go get github.com/Laisky/pprof
 ```
 
 Import it in your code:
 
 ```go
-import "github.com/gin-contrib/pprof"
+import "github.com/Laisky/pprof"
 ```
 
 ### Example
@@ -32,7 +32,7 @@ import "github.com/gin-contrib/pprof"
 package main
 
 import (
-  "github.com/gin-contrib/pprof"
+  "github.com/Laisky/pprof"
   "github.com/gin-gonic/gin"
 )
 
@@ -62,7 +62,7 @@ package main
 import (
   "net/http"
 
-  "github.com/gin-contrib/pprof"
+  "github.com/Laisky/pprof"
   "github.com/gin-gonic/gin"
 )
 
